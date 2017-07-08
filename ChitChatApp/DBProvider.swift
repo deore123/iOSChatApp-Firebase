@@ -2,8 +2,8 @@
 //   DBProvider.swift
 //  ChitChatApp
 //
-//  Created by Omkar Thorat on 6/8/17.
-//  Copyright © 2017 Supriya Deore. All rights reserved.
+//  Created by deore123 on 6/8/17.
+//  Copyright © 2017  All rights reserved.
 //
 
 import Foundation
