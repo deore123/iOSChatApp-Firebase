@@ -2,8 +2,8 @@
 //  ChitChatAppTests.swift
 //  ChitChatAppTests
 //
-//  Created by Omkar Thorat on 6/6/17.
-//  Copyright © 2017 Supriya Deore. All rights reserved.
+//  Created by deore123 on 6/6/17.
+//  Copyright © 2017 deore123. All rights reserved.
 //
 
 import XCTest
